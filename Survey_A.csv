@@ -1,0 +1,19 @@
+﻿Gender,Age,Race,Perfect_Pitch,Listen_Music,Played_Instruement,Years,Control,Sequance1,Sequance2,Sequance3,Sequance4,Sequance5,Sequance6
+Male,20,Asian or Pacific Islander,No,Yes,Yes,5,Higher,Lower,Higher,Higher,Higher,Lower,Higher
+Male,20,Asian or Pacific Islander,No,Yes,Yes,14,Higher,Higher,Lower,Higher,Higher,Higher,Higher
+Female,20,Asian or Pacific Islander,No,Yes,Yes,15,Higher,Higher,Lower,Higher,Higher,Same,Lower
+Male,20,White,No,Yes,No,0,Lower,Lower,Lower,Lower,Lower,Lower,Lower
+Female,20,Asian or Pacific Islander,No,Yes,Yes,10,Higher,Lower,Lower,Higher,Higher,Lower,Lower
+Male,17,Asian or Pacific Islander,No,Yes,Yes,3,Higher,Same,Lower,Lower,Higher,Higher,Lower
+Male,19,Asian or Pacific Islander,No,Yes,Yes,6,Lower,Lower,Lower,Higher,Same,Lower,Lower
+Male,20,Asian or Pacific Islander,No,Yes,Yes,2,Higher,Lower,Lower,Higher,Higher,Higher,Lower
+Female,19,Asian or Pacific Islander,No,Yes,Yes,5,Higher,Same,Lower,Lower,Same,Higher,Lower
+Female,19,Asian or Pacific Islander,No,Yes,Yes,5,Lower,Higher,Higher,Lower,Lower,Lower,Lower
+Female,20,Other,No,Yes,No,0,Higher,Same,Lower,Lower,Higher,Same,Same
+Female,21,Asian or Pacific Islander,No,Yes,Yes,6,Higher,Same,Lower,Higher,Higher,Lower,Lower
+Male,20,Black or African American,No,Yes,Yes,5,Higher,Higher,Lower,Higher,Higher,Higher,Lower
+Male,21,Asian or Pacific Islander,No,Yes,Yes,5,Higher,Lower,Lower,Lower,Same,Lower,Lower
+Female,20,Asian or Pacific Islander,No,No,Yes,8,Higher,Lower,Lower,Higher,Higher,Same,Lower
+Male,23,Hispanic or Latino,No,Yes,Yes,5,Higher,Lower,Lower,Same,Same,Same,Same
+Male,23,Hispanic or Latino,No,Yes,Yes,5,Higher,Lower,Lower,Same,Same,Same,Same
+Male,20,Asian or Pacific Islander,No,Yes,Yes,10,Higher,Higher,Lower,Higher,Lower,Same,Lower

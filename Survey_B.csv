@@ -1,0 +1,17 @@
+﻿Gender,Age,Perfect_Pitch,Listen_Music,Played_Instruement,Years,Control,Sequence1,Sequence1_Timing,Sequence2,Sequence2_Timing,Sequence3,Sequence3_Timing,Sequence4,Sequence4_Timing,Easiest
+Male,20,No,Yes,Yes,5,Higher,Same,Earlier,Lower,Expected,Higher,Later,Lower,Later,Question 1
+Female,20,No,Yes,No,0,Higher,Higher,Later,Lower,Later,Higher,Expected,Higher,Later,Question 1
+Male,20,No,Yes,Yes,8,Higher,Higher,Expected,Lower,Earlier,Higher,Earlier,Higher,Expected,Question 4
+Male,20,No,Yes,Yes,8,Lower,Higher,Earlier,Same,Earlier,Lower,Earlier,Higher,Expected,Question 1
+Male,18,No,Yes,Yes,4,Higher,Higher,Earlier,Higher,Later,Same,Earlier,Higher,Expected,Question 1
+Female,20,No,Yes,Yes,3,Higher,Higher,Expected,Lower,Earlier,Higher,Expected,Higher,Expected,Question 1
+Male,20,No,Yes,Yes,16,Higher,Higher,Earlier,Lower,Later,Higher,Earlier,Higher,Earlier,Question 4
+Male,20,No,Yes,Yes,16,Higher,Higher,Earlier,Lower,Later,Higher,Earlier,Higher,Earlier,Question 4
+Female,20,No,Yes,No,0,Higher,Higher,Later,Lower,Expected,Higher,Expected,Higher,Expected,Question 1
+Female,20,No,Yes,Yes,10,Higher,Same,Later,Same,Earlier,Same,Earlier,Higher,Expected,Question 4
+Female,20,No,Yes,Yes,10,Higher,Higher,Earlier,Lower,Earlier,Same,Expected,Higher,Earlier,Question 1
+Male,18,No,Yes,Yes,5,Higher,Higher,Later,Lower,Expected,Higher,Expected,Higher,Expected,Question 4
+Female,21,No,Yes,Yes,14,Higher,Same,Later,Lower,Later,Higher,Earlier,Higher,Expected,Question 3
+Male,20,No,Yes,Yes,1,Higher,Higher,Earlier,Higher,Later,Same,Earlier,Lower,Expected,Question 1
+Female,21,No,Yes,Yes,10,Higher,Higher,Later,Lower,Earlier,Higher,Expected,Higher,Expected,Question 1
+Male,21,No,Yes,No,0,Higher,Higher,Expected,Lower,Earlier,Higher,Earlier,Higher,Later,Question 1
